@@ -28,8 +28,3 @@
 ### 📫 Reach Me:
 - ✉️ [Email me](connorjamesnorth@msn.com)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/connornorth-/)
-
----
-
-![Connor's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Connor-North&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Connor-North&layout=compact&theme=radical)
