@@ -22,6 +22,7 @@
 - 🎸 I'm a passionate musician
 - 🧩 I can solve a Rubik’s Cube in under 30 seconds
 - ⚽ I’m a big sports fan — always down to chat football, snooker or cricket!
+- 🎮 I'm an avid gamer
 
 ---
 
