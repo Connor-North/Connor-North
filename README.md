@@ -1,13 +1,13 @@
 ## Hi there, I'm Connor 👋
 
-🎓 Aspiring Software Engineer based in Essex, UK  
-💻 Currently studying Full Stack JavaScript at [Northcoders](https://northcoders.com)  
-🌱 Learning: JavaScript | React | Node.js | Express | SQL | HTML & CSS  
+🎓 Software Engineer based in Essex, UK  
+💻 Recently graduated from the Full Stack JavaScript course at [Northcoders](https://northcoders.com)  
+🌱 Learning: JavaScript | React | Node.js | Express | SQL | Next.js
 
 ---
 
 ### 🔭 What I'm Working On:
-- Bootcamp group projects & solo builds
+- Solo builds
 - Sharpening problem-solving with coding challenges
 - Building confidence in frontend & backend development
 ---
