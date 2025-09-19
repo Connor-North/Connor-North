@@ -2,20 +2,14 @@
 
 🎓 Software Engineer based in Essex, UK  
 💻 Recently graduated from the Full Stack JavaScript course at [Northcoders](https://northcoders.com)  
-🌱 Learning: JavaScript | React | Node.js | Express | SQL | Next.js
+🌱 Currently using: TypeScript | React | Node.js | NestJS | Postgres
 
 ---
 
 ### 🔭 What I'm Working On:
-- Solo builds
-- Sharpening problem-solving with coding challenges
-- Building confidence in frontend & backend development
----
-
-### 👯 I'm Looking to Collaborate On:
-- Beginner-friendly open source projects
-- Anything JavaScript — I want to learn by doing!
-
+- Freelance projects
+- Building fluency in both frontend & backend development
+  
 ---
 
 ### 🎵 Fun Facts:
